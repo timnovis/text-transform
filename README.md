@@ -5,7 +5,7 @@ Tiny library to transform text with CSS-like properties. Great for transforming 
 ## Get Started
 
 ```
-npm -i text-transform
+npm i text-transform
 ```
 
 ```js

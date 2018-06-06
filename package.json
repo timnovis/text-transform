@@ -1,6 +1,6 @@
 {
   "name": "text-transform",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A microlibrary to transform strings with CSS-like properties",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
