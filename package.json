@@ -1,6 +1,6 @@
 {
   "name": "text-transform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A microlibrary to transform strings with CSS-like properties",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -31,5 +31,17 @@
     "jest": "^23.1.0",
     "ts-jest": "^22.4.6",
     "typescript": "^2.9.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timnovis/text-transform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timnovis/text-transform/issues"
+  },
+  "homepage": "https://github.com/timnovis/text-transform#readme"
 }
