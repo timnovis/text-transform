@@ -1,6 +1,6 @@
 # text-transform
 
-Tiny library to transform text with CSS-like properties. Great for transforming text in environments whre the full CSS spec might not be available to you, such as Node.js or React Native.
+Tiny library to transform text with CSS-like properties. Great for transforming text in environments where the full CSS spec might not be available to you, such as Node.js or React Native.
 
 ## Get Started
 
